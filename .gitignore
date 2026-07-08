@@ -1,0 +1,9 @@
+# node modules
+node_modules/*
+
+# Outputs
+dist/
+
+# environment file:
+.env*
+!.env.example
